@@ -2,4 +2,4 @@
 
 dde plot plots the delayed system over 200 years
 
-coupled dde heatmap runs the system through a set of parameters and plots the results in a heatmap
+coupled dde heatmap runs the system through a set of parameter values and plots the results in a heatmap
